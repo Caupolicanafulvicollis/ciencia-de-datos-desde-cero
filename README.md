@@ -29,17 +29,18 @@ El contenido de este repositorio está organizado en carpetas correspondientes a
 ### Capítulos del Libro:
 
 1. **[Introducción](/introduccion.ipynb)**: Ciencia de datos y configuración del entorno de trabajo.
-2. **Visualización de datos**: Herramientas para graficar y analizar datos.
-3. **Álgebra lineal**: Fundamentos matemáticos para modelos de datos.
-4. **Estadística**: Descripción y análisis de datos.
-5. **Probabilidad**: Modelado de incertidumbre y distribuciones.
-6. **Inferencia estadística**: Principios de la inferencia basada en datos.
-7. **Aprendizaje automático**: Introducción a algoritmos supervisados y no supervisados.
-8. **Redes neuronales**: Construcción y entrenamiento de modelos básicos.
-9. **Procesamiento de lenguaje natural**: Análisis de texto y técnicas de modelado.
-10. **Sistemas de recomendación**: Implementación de sistemas personalizados.
-11. **Big Data**: Trabajando con conjuntos de datos masivos.
-12. **Proyectos finales**: Aplicación de conceptos en casos de estudio reales.
+2. **[Un curso acelarado de Python](/curso-acelerado-python.ipynb)**: Un resumen de Python que el autor encuentra pertinente saber
+0. **Visualización de datos**: Herramientas para graficar y analizar datos.
+0. **Álgebra lineal**: Fundamentos matemáticos para modelos de datos.
+0. **Estadística**: Descripción y análisis de datos.
+0. **Probabilidad**: Modelado de incertidumbre y distribuciones.
+0. **Inferencia estadística**: Principios de la inferencia basada en datos.
+0. **Aprendizaje automático**: Introducción a algoritmos supervisados y no supervisados.
+0. **Redes neuronales**: Construcción y entrenamiento de modelos básicos.
+0. **Procesamiento de lenguaje natural**: Análisis de texto y técnicas de modelado.
+0. **Sistemas de recomendación**: Implementación de sistemas personalizados.
+0. **Big Data**: Trabajando con conjuntos de datos masivos.
+0. **Proyectos finales**: Aplicación de conceptos en casos de estudio reales.
 
 ---
 
