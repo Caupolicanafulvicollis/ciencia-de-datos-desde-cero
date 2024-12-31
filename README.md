@@ -28,7 +28,7 @@ El contenido de este repositorio está organizado en carpetas correspondientes a
 
 ### Capítulos del Libro:
 
-1. **Introducción**: Ciencia de datos y configuración del entorno de trabajo.
+1. **[Introducción](/introduccion.ipynb)**: Ciencia de datos y configuración del entorno de trabajo.
 2. **Visualización de datos**: Herramientas para graficar y analizar datos.
 3. **Álgebra lineal**: Fundamentos matemáticos para modelos de datos.
 4. **Estadística**: Descripción y análisis de datos.
